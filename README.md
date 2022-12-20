@@ -30,6 +30,8 @@ Then, do</p>
 
 
 <p>To use the .ipnyb file you must download some modules</p>
+
+
 ```
 pip install folium
 pip install pymysql
