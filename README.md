@@ -7,9 +7,9 @@
 
 <h1>Topic: </h1>
 
-<p>Use the [open-data](https://opendata.paris.fr/pages/home/) offered by the city of Paris:
- to extract information as JSON files using API and store all the data in a DBMS.
-Then, do</p>
+<p>Use the [open-data] (https://opendata.paris.fr/pages/home/) offered by the city of Paris to extract information as JSON files using API and store all the data in a DBMS.
+Then, load it and use it to create 'dashboard' using Power Bi.
+ 😃</p>
 
 
 <h3>Theme:</h3>
