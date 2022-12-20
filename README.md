@@ -35,7 +35,11 @@ pip install folium
 pip install pymysql
 pip install db-dtypes
 ```
+
+
 OR
+
+
 ```
 !pip3 install folium
 !pip3 install pymysql
